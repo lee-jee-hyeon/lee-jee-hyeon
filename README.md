@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lee-jee-hyeon
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Database
+- 👀 I’m interested in Data analysis, Amazon Web Service..
+- 🌱 I’m currently learning Database, Data Analysis, About cloud service
 
 
 <!---
